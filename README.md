@@ -1,5 +1,5 @@
-# Fourdle
-This is an adaption of the very popular web game Wordle, this version is edited to use four-letter words instead of five-letter words.
+# Four in One Wordle
+This is an adaption of the very popular web game Wordle, this version is edited to include three, four, five, and six-letter variations of Wordle.
 
 # Made in JavaScript and HTML
 
